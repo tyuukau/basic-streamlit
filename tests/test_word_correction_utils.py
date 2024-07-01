@@ -1,6 +1,6 @@
 import unittest
 
-from utils.chatbot_utils import levenshtein_distance
+from utils import levenshtein_distance
 
 
 class LevenshteinDistanceTestCase(unittest.TestCase):
